@@ -3,3 +3,8 @@
    font-display: swap;
    src: url('San Antonio Charros_personal_use_only/font.ttf');
 }
+@font-face {
+   font-family: 'IndieFlower';
+   font-display: swap;
+   src: url('IndieFlower/font.ttf');
+}
